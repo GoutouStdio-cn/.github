@@ -26,14 +26,20 @@
 **描述**：一个专为**64位架构的古董机**研发的操作系统。
 **状态**：活跃开发中 | 社区贡献者1 | 项目Stars：⭐️1
 
-
+## 工作室成员（现实真名）
+ - 吉XX
+ - 王XX
+ - 马XX
+ - 陈X
+ - 陈XX
+   
 ## 工作室技术足迹
 <div align="center">
-  <!-- GitHub 原生贡献统计卡片：无外部依赖、无 Not Found、实时更新 -->
-  <img src="https://ghchart.rshah.org/GoutouStdio-cn" alt="GoutouStdio-cn's GitHub Contribution Chart" width="100%"/>
-  <!-- 补充语言统计（无外部镜像，避免 Not Found） -->
-  <img src="https://img.shields.io/github/languages/top/GoutouStdio-cn/SpaceOS-X?style=for-the-badge&color=blueviolet" alt="Top Language"/>
-  <img src="https://img.shields.io/github/languages/count/GoutouStdio-cn/SpaceOS-X?style=for-the-badge&color=lightblue" alt="Language Count"/>
+  <!-- 可爱风格折线统计图：github-readme-activity-graph，支持柔和主题 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GoutouStdio-cn&theme=tokyo-night&hide_border=true&area=true&radius=16&color=00C9FF&line=92FE9D&point=4F9FFF" alt="GoutouStdio Activity Graph" width="100%"/>
+  
+  <!-- 配套可爱风格语言统计卡片，与折线图风格统一 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GoutouStdio-cn&layout=compact&theme=tokyo-night&hide_border=true&langs_count=6&card_width=400" alt="Top Languages" style="margin-top: 1rem;"/>
 </div>
 
 
