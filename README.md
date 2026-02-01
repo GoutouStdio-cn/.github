@@ -4,9 +4,9 @@
     GoutouStdio
   </h1>
   <p style="font-size: 1.2rem; color: #888;">Low-level Craft, High-level Innovation</p>
-  <p>专注于 C / Python / 汇编的系统级开发与性能优化工作室</p>
+  <p>几个小学生创建的工作室</p>
 
-  <!-- 技术栈徽章：统一风格+辨识度 -->
+  <!-- 技术栈徽章 -->
   <div style="margin: 1rem 0;">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -29,9 +29,9 @@
 
 ## 工作室技术足迹
 <div align="center">
-  <!-- 使用第三方镜像解决官方负载问题 -->
-  <img src="https://stats.justsong.cn/api?username=GoutouStdio-cn&show_icons=true&theme=radical&hide_title=false&count_private=true" alt="GoutouStdio Stats" width="48%"/>
-  <img src="https://stats.justsong.cn/api/top-langs/?username=GoutouStdio-cn&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="48%"/>
+  <!-- 修正路径和参数格式 -->
+  <img src="https://stats.justsong.cn/api?username=GoutouStdio-cn&show_icons=true&theme=radical&hide_title=false&count_private=true&cache_seconds=86400" alt="GoutouStdio Stats" width="48%"/>
+  <img src="https://stats.justsong.cn/api/top-langs?username=GoutouStdio-cn&layout=compact&theme=radical&langs_count=6&cache_seconds=86400" alt="Top Languages" width="48%"/>
 </div>
 
 
