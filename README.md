@@ -29,9 +29,11 @@
 
 ## 工作室技术足迹
 <div align="center">
-  <!-- 修正路径和参数格式 -->
-  <img src="https://stats.justsong.cn/api?username=GoutouStdio-cn&show_icons=true&theme=radical&hide_title=false&count_private=true&cache_seconds=86400" alt="GoutouStdio Stats" width="48%"/>
-  <img src="https://stats.justsong.cn/api/top-langs?username=GoutouStdio-cn&layout=compact&theme=radical&langs_count=6&cache_seconds=86400" alt="Top Languages" width="48%"/>
+  <!-- GitHub 原生贡献统计卡片：无外部依赖、无 Not Found、实时更新 -->
+  <img src="https://ghchart.rshah.org/GoutouStdio-cn" alt="GoutouStdio-cn's GitHub Contribution Chart" width="100%"/>
+  <!-- 补充语言统计（无外部镜像，避免 Not Found） -->
+  <img src="https://img.shields.io/github/languages/top/GoutouStdio-cn/SpaceOS-X?style=for-the-badge&color=blueviolet" alt="Top Language"/>
+  <img src="https://img.shields.io/github/languages/count/GoutouStdio-cn/SpaceOS-X?style=for-the-badge&color=lightblue" alt="Language Count"/>
 </div>
 
 
