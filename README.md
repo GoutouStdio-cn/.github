@@ -29,9 +29,9 @@
 
 ## 工作室技术足迹
 <div align="center">
-  <!-- GitHub统计卡片：突出技术重心 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=GoutouStdio-cn&show_icons=true&theme=radical&hide_title=false&count_private=true" alt="GoutouStdio Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoutouStdio-cn&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="48%"/>
+  <!-- 使用第三方镜像解决官方负载问题 -->
+  <img src="https://stats.justsong.cn/api?username=GoutouStdio-cn&show_icons=true&theme=radical&hide_title=false&count_private=true" alt="GoutouStdio Stats" width="48%"/>
+  <img src="https://stats.justsong.cn/api/top-langs/?username=GoutouStdio-cn&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="48%"/>
 </div>
 
 
